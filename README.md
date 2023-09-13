@@ -3,27 +3,31 @@ Este é um projeto desenvollvido para a disciplina Porjeto Integrador do 3 perí
 
 
 
-[Interface de Cadastro de Aluno]
+##Interface de Cadastro de Aluno
+
 Bem-vindo ao Sistema de Cadastro de Alunos!
 
-[Formulário de Cadastro de Aluno]
-Nome: ______________________________
-Data de Nascimento: _______________
-Endereço: __________________________
-Outras informações: ________________
+>Formulário de Cadastro de Aluno
+>Nome: ______________________________
+>Data de Nascimento: _______________
+>Endereço: __________________________
+>Outras informações: ________________
                                   
-[Botões]
-[Confirmar Cadastro]   [Cancelar]
+-Botões
+**[Confirmar Cadastro]   [Cancelar]**
 
-[Mensagens]
-- Preencha todos os campos obrigatórios.
-- Cadastro realizado com sucesso!
-- Erro: Dados inválidos. Verifique as informações preenchidas.
+- Mensagens
+> Preencha todos os campos obrigatórios.
+> Cadastro realizado com sucesso!
+> Erro: Dados inválidos. Verifique as informações preenchidas.
 
-[Direções]
+- Direções
 1. Preencha todos os campos obrigatórios do formulário.
 2. Clique em "Confirmar Cadastro" para salvar suas informações.
 3. Em caso de erro, siga as mensagens exibidas para corrigir os dados.
+
+### Ilustração das telas
+![[](https://github.com/SVasconcellos-yssy/Projeto_Integrador_pt2/blob/main/973860f8-52b5-4d8b-aab4-4b9d930e6b92.jpg)
 
 
 [Interface de Consulta de Notas]
