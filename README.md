@@ -27,7 +27,7 @@ Bem-vindo ao Sistema de Cadastro de Alunos!
 3. Em caso de erro, siga as mensagens exibidas para corrigir os dados.
 
 ### Ilustração das telas
-![[](https://github.com/SVasconcellos-yssy/Projeto_Integrador_pt2/blob/main/973860f8-52b5-4d8b-aab4-4b9d930e6b92.jpg)
+![[Ilustração de cadastro](973860f8-52b5-4d8b-aab4-4b9d930e6b92.jpg)
 
 
 [Interface de Consulta de Notas]
