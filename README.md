@@ -14,7 +14,7 @@ Bem-vindo ao Sistema de Cadastro de Alunos!
 > Outras informações: ________________
                                   
 - Botões
-** [Confirmar Cadastro]   [Cancelar] **
+**[Confirmar Cadastro]**   **[Cancelar]**
 
 - Mensagens
 > Preencha todos os campos obrigatórios.
@@ -27,7 +27,7 @@ Bem-vindo ao Sistema de Cadastro de Alunos!
 3. Em caso de erro, siga as mensagens exibidas para corrigir os dados.
 
 ### Ilustração das telas
-![[Ilustração de cadastro](973860f8-52b5-4d8b-aab4-4b9d930e6b92.jpg)
+![Ilustração de cadastro](/fotos/telaCadastro.jpg)
 
 
 [Interface de Consulta de Notas]
