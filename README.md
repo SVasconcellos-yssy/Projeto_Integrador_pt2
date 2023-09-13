@@ -8,17 +8,24 @@ Este é um projeto desenvollvido para a disciplina Porjeto Integrador do 3 perí
 Bem-vindo ao Sistema de Cadastro de Alunos!
 
 > Formulário de Cadastro de Aluno
+
 > Nome: ______________________________
+
 > Data de Nascimento: _______________
+
 > Endereço: __________________________
+
 > Outras informações: ________________
                                   
 - Botões
 **[Confirmar Cadastro]**   **[Cancelar]**
 
 - Mensagens
+
 > Preencha todos os campos obrigatórios.
+
 > Cadastro realizado com sucesso!
+
 > Erro: Dados inválidos. Verifique as informações preenchidas.
 
 - Direções
@@ -28,6 +35,8 @@ Bem-vindo ao Sistema de Cadastro de Alunos!
 
 ### Ilustração das telas
 ![Ilustração de cadastro](/fotos/telaCadastro.jpg)
+
+![Ilustração de tela inicial](/fotos/telaCadastro.jpg)
 
 
 [Interface de Consulta de Notas]
