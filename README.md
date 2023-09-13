@@ -3,18 +3,18 @@ Este é um projeto desenvollvido para a disciplina Porjeto Integrador do 3 perí
 
 
 
-##Interface de Cadastro de Aluno
+## Interface de Cadastro de Aluno
 
 Bem-vindo ao Sistema de Cadastro de Alunos!
 
->Formulário de Cadastro de Aluno
->Nome: ______________________________
->Data de Nascimento: _______________
->Endereço: __________________________
->Outras informações: ________________
+> Formulário de Cadastro de Aluno
+> Nome: ______________________________
+> Data de Nascimento: _______________
+> Endereço: __________________________
+> Outras informações: ________________
                                   
--Botões
-**[Confirmar Cadastro]   [Cancelar]**
+- Botões
+** [Confirmar Cadastro]   [Cancelar] **
 
 - Mensagens
 > Preencha todos os campos obrigatórios.
