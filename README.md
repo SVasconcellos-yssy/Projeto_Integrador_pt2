@@ -147,7 +147,7 @@ Bem-vindo ao Sistema de Matrícula em Disciplinas!
 
 Bem-vindo ao Sistema de Lançamento de Notas!
 
-## Opções
+### Opções
 
 1. Lançar Notas
 2. Sair
@@ -166,7 +166,7 @@ Bem-vindo ao Sistema de Lançamento de Notas!
 
 ### Botões
 
-**Selecionar Disciplina**   **Voltar**
+**Selecionar Disciplina**  |  **Voltar**
 
 ### Mensagens
 
@@ -208,7 +208,7 @@ Sextas: 08:00 - 10:00
 
 ### Botões
 
-**Selecionar Disciplina**   **Voltar**
+**Selecionar Disciplina**  |  **Voltar**
 
 ### Mensagens
 
@@ -220,16 +220,22 @@ Sextas: 08:00 - 10:00
 ### Protótipos das telas do nosso sistema
 
 
+- Tela de cadastro de aluno/professor
 ![Prtótipo de cadastro aluno.professor](/fotos/telaCadastro.jpg)
 
+- tela inicial do site
 ![Protótipo de tela inicial do sistema](/fotos/telaInicial.jpg)
 
+-tela inicial do aluno
 ![Protótipo de tela inicial do aluno](/fotos/paginaInicialAluno.png)
 
+-tela de menu com opções para os alunos
 ![Protótipo de tela menu do aluno](/fotos/MenuAluno.png)
 
+-tela inicial do professor com o menu
 ![Protótipo de tela inicial do professor](/fotos/professormenu.png)
 
+-tela de lançamento de notas
 ![Protótipo de tela de lançamento de notas](/fotos/lancamentodenota.png)
 
 
