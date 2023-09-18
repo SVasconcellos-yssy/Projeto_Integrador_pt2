@@ -19,7 +19,7 @@ Bem-vindo ao Sistema de Cadastro de Alunos!
                                   
 ### Botões
 
-**[Confirmar Cadastro]**   **[Cancelar]**
+**Confirmar Cadastro** |  **Cancelar**
 
 
 ### Mensagens
@@ -55,7 +55,7 @@ Disciplinas Cursadas:
 3. Ciências
 
 ### Botões
-**Selecionar Disciplina**   **Voltar**
+**Selecionar Disciplina**  |  **Voltar**
 
 ### Mensagens
 
@@ -92,7 +92,7 @@ Bem-vindo ao Sistema de Atualização de Informações Pessoais!
 
 ### Botões
 
-**Editar Informações**   **Voltar**
+**Editar Informações** | **Voltar**
 
 ### Mensagens
 
@@ -126,7 +126,7 @@ Bem-vindo ao Sistema de Matrícula em Disciplinas!
 
 ### Botões
 
-**Selecionar Disciplinas**   **Voltar**
+**Selecionar Disciplinas**  |  **Voltar**
 
 ### Mensagens
 
