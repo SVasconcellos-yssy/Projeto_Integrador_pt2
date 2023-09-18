@@ -223,19 +223,24 @@ Sextas: 08:00 - 10:00
 - Tela de cadastro de aluno/professor
 ![Prtótipo de cadastro aluno.professor](/fotos/telaCadastro.jpg)
 
+
 - tela inicial do site
 ![Protótipo de tela inicial do sistema](/fotos/telaInicial.jpg)
 
--tela inicial do aluno
+
+- tela inicial do aluno
 ![Protótipo de tela inicial do aluno](/fotos/paginaInicialAluno.png)
 
--tela de menu com opções para os alunos
+
+- tela de menu com opções para os alunos
 ![Protótipo de tela menu do aluno](/fotos/MenuAluno.png)
 
--tela inicial do professor com o menu
+
+- tela inicial do professor com o menu
 ![Protótipo de tela inicial do professor](/fotos/professormenu.png)
 
--tela de lançamento de notas
+
+- tela de lançamento de notas
 ![Protótipo de tela de lançamento de notas](/fotos/lancamentodenota.png)
 
 
