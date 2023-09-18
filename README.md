@@ -17,10 +17,12 @@ Bem-vindo ao Sistema de Cadastro de Alunos!
 
 > Outras informações: ________________
                                   
-- Botões
+### Botões
+
 **[Confirmar Cadastro]**   **[Cancelar]**
 
-- Mensagens
+
+### Mensagens
 
 > Preencha todos os campos obrigatórios.
 
@@ -28,67 +30,78 @@ Bem-vindo ao Sistema de Cadastro de Alunos!
 
 > Erro: Dados inválidos. Verifique as informações preenchidas.
 
-- Direções
+
+### Direções
+
 1. Preencha todos os campos obrigatórios do formulário.
 2. Clique em "Confirmar Cadastro" para salvar suas informações.
 3. Em caso de erro, siga as mensagens exibidas para corrigir os dados.
 
-### Ilustração das telas
-![Ilustração de cadastro](/fotos/telaCadastro.jpg)
+## Interface de Consulta de Notas
 
-![Ilustração de tela inicial](/fotos/telaCadastro.jpg)
+ Bem-vindo ao Sistema de Consulta de Notas!
 
+### Opções
 
-[Interface de Consulta de Notas]
-Bem-vindo ao Sistema de Consulta de Notas!
-
-[Opções]
 1. Consultar Disciplinas Cursadas
 2. Sair
 
-[Seleção de Disciplina]
+### Seleção de Disciplina
+
+
 Disciplinas Cursadas:
 1. Matemática
 2. História
 3. Ciências
 
-[Botões]
-[Selecionar Disciplina]   [Voltar]
+### Botões
+**Selecionar Disciplina**   **Voltar**
 
-[Mensagens]
+### Mensagens
+
 - Selecione uma disciplina para consultar as notas.
 - Não há notas disponíveis para a disciplina selecionada.
 - Erro: Falha na consulta de disciplinas. Tente novamente mais tarde.
 
-[Direções]
+### Direções
+
 1. Escolha a opção "Consultar Disciplinas Cursadas" para ver a lista de disciplinas.
 2. Selecione uma disciplina da lista.
 3. Serão exibidas as notas obtidas pelo aluno na disciplina selecionada.
 4. Caso não haja notas ou ocorra um erro, as mensagens correspondentes serão exibidas.
 
 
-[Interface de Atualização de Informações Pessoais]
+## Interface de Atualização de Informações Pessoais
+
 Bem-vindo ao Sistema de Atualização de Informações Pessoais!
 
-[Opções]
+### Opções
+
 1. Atualizar Informações
 2. Sair
 
-[Informações Pessoais Atuais]
-Nome: João da Silva
-Data de Nascimento: 10/05/1995
-Endereço: Rua A, 123
-Telefone: (11) 98765-4321
+### Informações Pessoais Atuais
 
-[Botões]
-[Editar Informações]   [Voltar]
+> Nome: João da Silva
 
-[Mensagens]
+> Data de Nascimento: 10/05/1995
+
+> Endereço: Rua A, 123
+
+> Telefone: (11) 98765-4321
+
+### Botões
+
+**Editar Informações**   **Voltar**
+
+### Mensagens
+
 - Realize as alterações necessárias e confirme a atualização.
 - Atualização realizada com sucesso!
 - Erro: Dados inválidos. Verifique as informações preenchidas.
 
-[Direções]
+### Direções
+
 1. Escolha a opção "Atualizar Informações" para editar seus dados pessoais.
 2. O formulário exibirá suas informações atuais preenchidas.
 3. Faça as alterações desejadas nas informações pessoais.
@@ -96,61 +109,74 @@ Telefone: (11) 98765-4321
 5. Caso ocorra algum erro ou dados inválidos, as mensagens correspondentes serão exibidas.
 
 
-[Interface de Matrícula em Disciplinas]
+## Interface de Matrícula em Disciplinas
+
 Bem-vindo ao Sistema de Matrícula em Disciplinas!
 
-[Opções]
+### Opções
+
 1. Matricular em Disciplinas
 2. Sair
 
-[Disciplinas Disponíveis]
+### Disciplinas Disponíveis
+
 1. Matemática (Prof. Silva)
 2. História (Prof. Santos)
 3. Ciências (Prof. Oliveira)
 
-[Botões]
-[Selecionar Disciplinas]   [Voltar]
+### Botões
 
-[Mensagens]
+**Selecionar Disciplinas**   **Voltar**
+
+### Mensagens
+
 - Selecione as disciplinas desejadas e confirme a matrícula.
 - Matrícula realizada com sucesso!
 - Erro: O aluno já está matriculado em algumas disciplinas.
 - Erro: Falha na matrícula. Tente novamente mais tarde.
 
-[Direções]
+### Direções
+
 1. Escolha a opção "Matricular em Disciplinas" para ver a lista de disciplinas disponíveis.
 2. Selecione as disciplinas desejadas para matrícula.
 3. Clique em "Selecionar Disciplinas" para confirmar a matrícula.
 4. Caso haja duplicidade de matrícula ou ocorra um erro, as mensagens correspondentes serão exibidas.
 
 
-[Interface de Lançamento de Notas]
+## Interface de Lançamento de Notas
+
 Bem-vindo ao Sistema de Lançamento de Notas!
 
-[Opções]
+## Opções
+
 1. Lançar Notas
 2. Sair
 
-[Disciplinas Ministradas]
+### Disciplinas Ministradas
+
 1. Matemática (Turma A)
 2. História (Turma B)
 3. Ciências (Turma C)
 
-[Alunos Matriculados]
+### Alunos Matriculados
+
 1. João da Silva
 2. Maria Santos
 3. Pedro Oliveira
 
-[Botões]
-[Selecionar Disciplina]   [Voltar]
+### Botões
 
-[Mensagens]
+**Selecionar Disciplina**   **Voltar**
+
+### Mensagens
+
 - Selecione a disciplina e o aluno para lançar notas.
 - Notas lançadas com sucesso!
 - Erro: Dados inválidos. Verifique as notas lançadas.
 - Erro: Lançamento cancelado.
 
-[Direções]
+### Direções
+
 1. Escolha a opção "Lançar Notas" para começar o processo de lançamento.
 2. Selecione a disciplina em que deseja lançar notas.
 3. Escolha o aluno da lista de matriculados na disciplina.
@@ -159,30 +185,51 @@ Bem-vindo ao Sistema de Lançamento de Notas!
 6. Caso ocorra algum erro, ou seja necessário cancelar, as mensagens correspondentes serão exibidas.
 
 
-[Interface de Visualização de Horários]
+## Interface de Visualização de Horários
+
 Bem-vindo ao Sistema de Visualização de Horários!
 
-[Opções]
+### Opções
+
 1. Visualizar Horários
 2. Sair
 
-[Disciplinas Ministradas]
+### Disciplinas Ministradas
+
 1. Matemática (Turma A)
 2. História (Turma B)
 3. Ciências (Turma C)
 
-[Horários de Aulas]
+### Horários de Aulas
 Horários da Disciplina: Matemática (Turma A)
 Segundas: 08:00 - 10:00
 Quartas: 10:30 - 12:30
 Sextas: 08:00 - 10:00
 
-[Botões]
-[Selecionar Disciplina]   [Voltar]
+### Botões
 
-[Mensagens]
+**Selecionar Disciplina**   **Voltar**
+
+### Mensagens
+
 - Escolha a disciplina para ver os horários das aulas.
 - Não há horários disponíveis para a disciplina selecionada.
 - Não há disciplinas atribuídas ao professor.
+
+
+### Protótipos das telas do nosso sistema
+
+
+![Prtótipo de cadastro aluno.professor](/fotos/telaCadastro.jpg)
+
+![Protótipo de tela inicial do sistema](/fotos/telaInicial.jpg)
+
+![Protótipo de tela inicial do aluno](/fotos/paginaInicialAluno.png)
+
+![Protótipo de tela menu do aluno](/fotos/MenuAluno.png)
+
+![Protótipo de tela inicial do professor](/fotos/professormenu.png)
+
+![Protótipo de tela de lançamento de notas](/fotos/lancamentodenota.png)
 
 
